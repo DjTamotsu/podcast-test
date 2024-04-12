@@ -1,4 +1,4 @@
-name: Update Podcast Feeds
+name: Update podcast.xml
 on: [push]
 jobs:
   build:
